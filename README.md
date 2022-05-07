@@ -1,15 +1,8 @@
-# Online-Retail-Customer-Segmentation
-
-### About this Project:
-
-This is a **Unsupervised Machine learning Capstone project.**
-
-This project is done for **Almabetter pro Program.**
-
-This project aims to identify major customer segments on a transnational data set for a UK-based online retail.
+<h1 align="center"> Customer Segmentation </h1>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 
-### Problem Description :
+## 📋 Summary 
 
 In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 ![rfm_model](https://user-images.githubusercontent.com/88345564/145955170-eb9a052e-2f67-470c-ad8f-5037eb22136e.png)
@@ -64,9 +57,9 @@ Conclusions
 * Most of the customers purchase in the afternoon time. The 12th hour of the day is a peak for purchasing items.
 
 ### Model Analysis
-![Screenshot 2021-11-05 162547](https://user-images.githubusercontent.com/88345564/140500121-965c0c4c-94d4-4f75-a9be-51f5b2953559.png)
 
-**After applying various algorithms, optimal number of cluster is equal to 2.**
+
+**After applying various algorithms, optimal number of cluster is equal to 3.**
 
 
 
@@ -76,4 +69,4 @@ Conclusions
 
 ● Customers are being segmented more deeply based on their physical location, as well as demographic and psychographic factors.
 
-● Incorporating data from the company's Google Analytics account. Google Analytics is an excellent tool for tracking a variety of essential business data, including Customer Lifetime Value, Traffic Source/Medium, Pageviews perVisit, and Bounce Rate of a company's website, among others.
+
