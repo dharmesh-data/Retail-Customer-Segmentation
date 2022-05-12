@@ -3,6 +3,10 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+<p align="center"> 
+<img src="https://storage.googleapis.com/kaggle-datasets-images/10606/14845/7b2aba545b109195d6024e25da3fd6b2/dataset-cover.jpg?t=2018-01-22-14-24-17" height="382px">
+</p>
+
 ## 📋 Summary 
 
 In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
