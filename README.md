@@ -99,7 +99,7 @@ Dharmesh Patel | Avid Learner | Data Scientist | Machine Learning Enthusiast
 
 <h2> :books: References</h2>
 <ul>
-  <li><p>Jonathan Lee, 'Notes on Naive Bayes Classifiers for Spam Filtering'. [Online].</p>
+  <li><p>Online Retail Data Set from UCI ML repo</p>
       <p>Available: https://www.kaggle.com/datasets/jihyeseo/online-retail-data-set-from-uci-ml-repo</p>
   </li>
 </ul>
