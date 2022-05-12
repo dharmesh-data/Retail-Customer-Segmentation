@@ -26,11 +26,11 @@ The differences in customers' behaviour, demographics, geographies, etc. help in
 
 The RFM model is quite useful model in retail customer segmentation where only the data of customer transaction is available. RFM stands for the three dimensions:
 
-Recency – How recently did the customer purchase?
+<b>Recency</b> – How recently did the customer purchase?
 
-Frequency – How often do they purchase?
+<b>Frequency</b> – How often do they purchase?
 
-Monetary Value – How much do they spend?
+<b>Monetary Value</b> – How much do they spend?
 
 A combination of these three attributes can be defined to assign a quantitative value to customers. e.g. A customer who recently bought high value products and transacts regularly is a high value customer.
 
