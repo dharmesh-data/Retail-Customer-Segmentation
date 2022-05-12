@@ -80,6 +80,7 @@ At the beginning of this file, the spam_detector has been imported so that the f
 <p><b>3) test.py</b></p>
 <p>Finally, the test.py file must be executed to create the result.txt and evaluation.txt files.
 Just like the train.py file, at the beginning of this file, the spam_detector has been imported so that the functions defined in it can be used.</p>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2 id="credits"> :scroll: Credits</h2>
@@ -87,6 +88,7 @@ Just like the train.py file, at the beginning of this file, the spam_detector ha
 Dharmesh Patel | Avid Learner | Data Scientist | Machine Learning Enthusiast
 
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :books: References</h2>
@@ -110,7 +112,6 @@ Dharmesh Patel | Avid Learner | Data Scientist | Machine Learning Enthusiast
       <p>Available: https://www.pythonforengineers.com/build-a-spam-filter/</p>
   </li>
 </ul>
-
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
