@@ -4,7 +4,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <p align="center"> 
-<img src="https://storage.googleapis.com/kaggle-datasets-images/10606/14845/7b2aba545b109195d6024e25da3fd6b2/dataset-cover.jpg?t=2018-01-22-14-24-17" height="382px">
+<img src="https://miro.medium.com/max/1400/0*nTXZlcnSOjmDUHB5" height="382px">
 </p>
 
 ## 📋 Summary 
