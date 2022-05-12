@@ -75,12 +75,13 @@ Conclusions
 
 <h2> :clipboard: Execution Instruction</h2>
 <p>The order of execution of the program files is as follows:</p>
+
 <p><b>1) requiremets.txt</b></p>
-Use this command to install library: pip install -r requirements.txt
+<p>Use this command to install library: pip install -r requirements.txt</p>
+
 
 <p><b>2)Dc_Online_Retail_Customer_Segmentation_Capstone_Project.ipynb</b></p>
-
-After it run this file using jupyter notebook or google colaaboratery
+<p>After it run this file using jupyter notebook or google colaaboratery</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
