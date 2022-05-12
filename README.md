@@ -10,19 +10,16 @@ In this project, your task is to identify major customer segments on a transnati
 <p align="center"> 
 <img src="https://user-images.githubusercontent.com/88345564/145955170-eb9a052e-2f67-470c-ad8f-5037eb22136e.png" height="382px">
 </p>
+
 ### The need of customer segmentation:
 
 The differences in customers' behaviour, demographics, geographies, etc. help in classifying them in groups. Learning about different groups in the customer can help with following:
 
-Target Marketing
-
-Client understanding
-
-Optimal product placement
-
-Searching for new customers
-
-Revenue growth
+* Target Marketing
+* Client understanding
+* Optimal product placement
+* Searching for new customers
+* Revenue growth
 
 
 ### Recency-Frequency-Monetary (RFM) model to determine customer value:
