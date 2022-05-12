@@ -1,6 +1,7 @@
 <h1 align="center"> Customer Segmentation </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📋 Summary 
 
@@ -43,6 +44,8 @@ A combination of these three attributes can be defined to assign a quantitative 
 Models
 Challenges
 Conclusions
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## Conclusions:
 
