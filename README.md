@@ -6,8 +6,10 @@
 ## 📋 Summary 
 
 In this project, your task is to identify major customer segments on a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
-![rfm_model](https://user-images.githubusercontent.com/88345564/145955170-eb9a052e-2f67-470c-ad8f-5037eb22136e.png)
 
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/88345564/145955170-eb9a052e-2f67-470c-ad8f-5037eb22136e.png" height="382px">
+</p>
 ### The need of customer segmentation:
 
 The differences in customers' behaviour, demographics, geographies, etc. help in classifying them in groups. Learning about different groups in the customer can help with following:
